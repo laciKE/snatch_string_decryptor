@@ -2,6 +2,9 @@
 // Twitter: @ladislav_b
 // https://github.com/laciKE/snatch_string_decryptor
 //
+// This IDC script is inspired by LIFARS IDA Python script:
+// https://github.com/Lifars/IDA-scripts/blob/master/snatch_decrypt_strings.py
+//
 // This code is licensed under MIT license (see LICENSE for details)
 
 #include <idc.idc>
